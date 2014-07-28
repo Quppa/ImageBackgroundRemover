@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundRemover", "BackgroundRemover\BackgroundRemover.csproj", "{CB9DF1EE-646D-4381-876F-95334DC3EC35}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundRemoverUI", "BackgroundRemoverUI\BackgroundRemoverUI.csproj", "{BF7655C4-2744-4FE6-9513-1A19EFFD389B}"
